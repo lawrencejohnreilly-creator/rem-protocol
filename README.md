@@ -52,8 +52,8 @@ Reference implementation: small, reproducible steps that prove the REM Protocol 
 
 🔗 References
 
-IETF Internet-Draft: REM Protocol
-https://www.ietf.org/archive/id/draft-reilly-rem-protocol-00.html?utm_source=chatgpt.com
+IETF Internet-Draft: REM Protocol 
+https://www.ietf.org/archive/id/draft-reilly-rem-protocol-00.html
 
 Zenodo
 https://zenodo.org/
