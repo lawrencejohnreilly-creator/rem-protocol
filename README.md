@@ -37,10 +37,11 @@ Combine the DOI + TXID + SHA-256 hash as a dual-layer permanence record.
 
 Example Proof Artifact
 {
-  "sha256": "5d41402abc4b2a76b9719d911017c592",
-  "doi": "10.5281/zenodo.1234567",
-  "txid": "0000000000000000000af...abcdef"
+  "sha256": "02439f01ba0b805ba3011aaeb2783ffb096c1c6ad847876e75d7d8b6c5c40d9b",
+  "doi": "10.5281/zenodo.17096230",
+  "txid": "Bitcoin block 914168 (attesting existence as of 2025-09-10 EST)"
 }
+
 Why This Matters
 
 Verifiable today: anyone can check the DOI and TXID independently.
