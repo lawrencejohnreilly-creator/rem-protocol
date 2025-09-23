@@ -11,10 +11,13 @@ This directory contains the demonstration artifacts for the **Reilly EternaMark 
 
 
 ## Verify Permanence
-1. Resolve DOI: `<PASTE_DOI_URL_HERE>`
-2. Verify OTS: `ots verify REM_package.pdf.ots` (or via opentimestamps.org)
-3. Match SHA‑256 of PDF: `sha256sum REM_package.pdf`
-4. Confirm TxID on chain: `<PASTE_BLOCK_EXPLORER_TXID_LINK_HERE>`
+1. Resolve DOI: `https://doi.org/10.5281/zenodo.17185285
+`
+2. Verify OTS: (via opentimestamps.org)
+3. Match SHA256 of PDF:
+`f02bbe85e7af21a75e48f58ad1a790aea9286d9d4ba9692a1330e3a3e24fd1b7`
+
+4. Confirm TxID on chain: https://mempool.space/tx/<f02bbe85e7af21a75e48f58ad1a790aea9286d9d4ba9692a13bb81a6f6afe763c950db497a1e76d8d4f174773da354da>
 
 
 ## License
